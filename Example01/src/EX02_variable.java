@@ -2,6 +2,8 @@
 public class EX02_variable {
 
 	public static void main(String[] args) {
+		
+		//변수(Variable) : 데이터를 저장할 수 있는 기억공간
 
 		// 기본형 타입 8가지 제공
 		// 정수형 : byte(1), short(2), "int(4)", long(8)
